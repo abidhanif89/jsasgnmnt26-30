@@ -1,0 +1,40 @@
+body {
+    background-image: url(images/Dubai.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    
+}
+.main {
+    font-family: fantasy;
+    color: rgb(241, 235, 236);
+    border: 4px rgb(180, 180, 204)  !important;
+    margin-top: 90px !important;
+
+}
+h1 {
+    border: 1px solid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 10px 10px 20px  darkgoldenrod;
+    text-align: center;
+    color: rgb(252, 255, 250);
+    padding: 20px;
+    transition: 0.9s ;
+    margin-top: 40px;
+    background-color: black;
+    text-shadow: 5px 10px 10px rgba(199, 148, 54, 0.849);
+
+
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    border: 1px solid;
+    box-shadow: 10px 10px 20px  darkgoldenrod;
+    text-align: center;
+    color: rgb(242, 236, 243);
+    padding: 20px;
+    margin-top: 40px;
+    text-shadow: gainsboro;
+
+}
